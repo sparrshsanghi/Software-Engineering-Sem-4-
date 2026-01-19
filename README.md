@@ -8,3 +8,5 @@ This repository demonstrates basic Git operations such as:
 -Project not decided
 
 Experiment 1 – Software Engineering Lab
+
+//Commiting changes
